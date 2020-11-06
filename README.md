@@ -4,4 +4,4 @@ O jogo Dino Game foi projetado para a matéria de Sistemas Multimídia do 7º se
 
 ## Captura de tela
 
-![Captura de Tela](http://g.recordit.co/revG2ui5fI.gif)
+![Captura de Tela](http://g.recordit.co/5aEtOHbwrD.gif)
